@@ -1,4 +1,4 @@
-package com.aldous_roy.quiz_app.config;
+package com.aldous_roy.quiz_app;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
